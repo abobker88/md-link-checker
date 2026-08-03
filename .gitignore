@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+.env
+
+# Test fixture intentionally named node_modules, used to verify default ignores.
+!tests/fixtures/**/node_modules/
+!tests/fixtures/**/node_modules/**

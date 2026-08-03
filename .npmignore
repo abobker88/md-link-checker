@@ -1,0 +1,8 @@
+src/
+tests/
+*.config.ts
+tsconfig.json
+.github/
+.editorconfig
+.eslintrc.cjs
+.prettierrc
